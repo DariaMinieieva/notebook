@@ -55,7 +55,7 @@ Notebook Menu
             notes = self.notebook.notes
 
         for note in notes:
-            print(f"{note.id}: {note.tags}\n{note.memo}")
+            print(f"\n3{note.id}: {note.tags}\n{note.memo}")
 
     def search_notes(self):
         '''
