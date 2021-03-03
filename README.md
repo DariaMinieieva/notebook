@@ -8,4 +8,4 @@ Module 'notebook.py' has classes that represent a notebook: Note and Notebook.
 
 Adding new note
 
-![Add note](ing/img_1.png)
+![Add note](img/img_1.png)
